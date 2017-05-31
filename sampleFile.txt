@@ -1,0 +1,3 @@
+Hello Python and Java AES Encryption libraries.
+
+Please safeguard my text from hackers and data theives seaking to retrieve it's secrete contents. Please also respect it content and preserves it upon decryption to match the original content in it's original and most exquisite form.
